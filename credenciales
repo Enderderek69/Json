@@ -1,14 +1,20 @@
 {
-    "usuarios": [
-      {
-        "user": "admin",
-        "pass": "adminpass",
-        "rol": "Administrador"
-      },
-      {
-        "user": "usuario",
-        "pass": "usuariopass",
-        "rol": "Usuario"
-      }
-    ]
-  }
+  "usuarios": [
+    {
+      "user": "admin",
+      "pass": "adminpass",
+      "rol": "Administrador"
+    },
+    {
+      "user": "usuario",
+      "pass": "usuariopass",
+      "rol": "Usuario"
+    },
+    {
+      "user": "psicorientador",
+      "pass": "psicopass",
+      "rol": "Psicorientador"
+    }
+  ]
+}
+
