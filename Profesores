@@ -1,0 +1,40 @@
+{
+  "profesores": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "asignatura": "Matemáticas",
+      "email": "juan.perez@example.com"
+    },
+    {
+      "id": 2,
+      "nombre": "María González",
+      "asignatura": "Historia",
+      "email": "maria.gonzalez@example.com"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos Ramírez",
+      "asignatura": "Física",
+      "email": "carlos.ramirez@example.com"
+    },
+    {
+      "id": 4,
+      "nombre": "Ana Martínez",
+      "asignatura": "Literatura",
+      "email": "ana.martinez@example.com"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro Sánchez",
+      "asignatura": "Química",
+      "email": "pedro.sanchez@example.com"
+    },
+    {
+      "id": 6,
+      "nombre": "Laura Jiménez",
+      "asignatura": "Biología",
+      "email": "laura.jimenez@example.com"
+    }
+  ]
+}
