@@ -1,11 +1,6 @@
 {
   "usuarios": [
     {
-      "user": "admin",
-      "pass": "adminpass",
-      "rol": "Administrador"
-    },
-    {
       "user": "usuario",
       "pass": "usuariopass",
       "rol": "Usuario"
@@ -14,7 +9,18 @@
       "user": "psicorientador",
       "pass": "psicopass",
       "rol": "Psicorientador"
+    },
+    {
+      "user": "Derek",
+      "pass": "Ender321",
+      "rol": "Administrador"
+    },
+    {
+      "user": "Jefferson",
+      "pass": "jeffersonpass",
+      "rol": "Administrador"
     }
   ]
 }
+
 
